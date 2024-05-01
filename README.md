@@ -1,3 +1,4 @@
+## Check out the live version of this project hosted on Github Pages : https://azra-2003.github.io/Module_8_AZRALL558_PTO2401_GroupB-AZRA_ALLY_SDF08/
 # [SDF08] Build Your Portfolio MVP
 
 ![alt text](portfolio.png)
